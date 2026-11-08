@@ -2,8 +2,8 @@
 // Receives incident reports from the website and adds them to report.txt in your GitHub repo.
 //
 // Fill in these three lines:
-const OWNER  = 'your-github-username';   // e.g. 'mac-123'
-const REPO   = 'your-repo-name';         // e.g. 'brick-safety'
+const OWNER  = 'macman000';   // e.g. 'mac-123'
+const REPO   = 'barefootbricksafety';         // e.g. 'brick-safety'
 const BRANCH = 'main';
 const PATH   = 'report.txt';
 // Your GitHub token goes in Project Settings > Script Properties as GITHUB_TOKEN (not in this file).
